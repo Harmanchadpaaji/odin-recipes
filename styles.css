@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65pFzJNZardJ1Xz2MmheOUJd9a3aF62UCNQ&usqp=CAU);
+}
+h1{
+    text-align: center;
+    color: rgb(252, 255, 102);
+    font-size: 88px;
+    font-weight: 100;
+    font-family: monospace;
+    background-color: black;
+}
+img{
+    width: 1692px;
+    height: 600px;
+}
+.links{
+    text-align: center;
+    font-size: 55px;
+    background-color: black;
+    color: aliceblue;
+    font-family: monospace;
+}
+.marks{
+    text-align: center;
+    font-size: 0px;
+}
