@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65pFzJNZardJ1Xz2MmheOUJd9a3aF62UCNQ&usqp=CAU);   
+} 
+h1{
+    background-color: black;
+    color: yellow;
+    font-family: monospace;
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    background-color: black;
+    color: yellow;
+    font-family: monospace;
+    font-size: 20px;
+}
+.heading{
+   color: yellow;
+   background-color: black;
+   font-family: monospace;
+   font-size: 15px;
+}
+.back{
+    text-align: justify;
+    font-family: monospace;
+    font-size: 30px;
+    background-color: yellow;
+    color: black;
+}
+
+

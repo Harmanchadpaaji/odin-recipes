@@ -9,15 +9,12 @@ h1{
     font-family: monospace;
     background-color: black;
 }
-img{
-    width: 1692px;
-    height: 600px;
-}
+
 .links{
     text-align: center;
-    font-size: 55px;
-    background-color: black;
-    color: aliceblue;
+    font-size: 40px;
+    background-color: yellow;
+    color: black;
     font-family: monospace;
 }
 .marks{
